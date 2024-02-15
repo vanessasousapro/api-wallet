@@ -1,0 +1,43 @@
+# Módulos Node.js
+node_modules/
+
+# Arquivos de log
+logs
+*.log
+npm-debug.log*
+
+# Arquivos de ambiente
+.env
+
+# Dependências específicas do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Diretório de compilação
+/dist
+
+# Dependências locais
+/.pnp
+.pnp.js
+
+# Arquivos temporários
+*.swp
+*.swo
+*.swn
+*.swm
+*.bak
+
+# Arquivos de configuração do Visual Studio Code
+.vscode/
+
+# Arquivos de configuração do WebStorm
+.idea/
+
+# Arquivos de configuração do Sublime Text
+.sublime*
+
+# Arquivos de configuração do Atom
+.atom/
+
+# Cache do npm
+.npm/
